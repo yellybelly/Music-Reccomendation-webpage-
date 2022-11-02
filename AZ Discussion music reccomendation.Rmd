@@ -1,0 +1,13 @@
+Gnoostic.com is a reccomendation website that searches for music you don't know about, and then asks you what music you like and then think about what you might like too. 
+
+Scenario design: 
+1. The target users is music lovers or anyone looking to discover new music.
+2. Their key goals are to learn and discover new music that they might like. 
+3. They can help them accomplish their goals by searching for music based on what the users might like and reccomending it to them.
+
+The website has you enter 3 of your favorite artists. Then, it reccomends a couple of songs to you to see if they're on the right track. Once they understand what you like they make reccomendations which you then tell them if you like it or not. The website's goal is to introduce people to so many different types of music to widen the user's range. 
+
+The goal of the user is to easily find new music, instead of listening to the same songs repeatedly. They want to discover new artists and new songs. The webiste is very easy to manage and work with. 
+
+Reccomendations for the website is to ask more direct questions, instead of just favroite band/artist. They should have you enter a couple different songs that you like to really narrow down the reccomendations. 
+
